@@ -47,18 +47,6 @@ I enjoy solving real-world data engineering problems — improving pipeline reli
 
 ---
 
-## 🧪 Featured Projects
-
-### 🌆 Metropulse — Smart City Data Engineering Pipeline
-
-An end-to-end **Data Engineering project** based on smart city sensor data 🚦🌫️🌦️.
-
-The project focuses on ingesting traffic, pollution, and weather data, storing raw records, transforming data for analytics, and designing a pipeline-oriented architecture using:
-
-`Python` `FastAPI` `SQL` `Apache Airflow` `Apache Spark` `AWS` `Data Lake`
-
----
-
 ## 📚 Learning & Practice
 
 Along with Data Engineering, I actively practice problem-solving and maintain structured coding repositories with clean documentation, multiple approaches, test cases, and readable explanations 🧩📘.
