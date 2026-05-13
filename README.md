@@ -57,7 +57,7 @@ I believe in learning by building, documenting, and improving one step at a time
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Manish Mathur](https://www.linkedin.com/in/your-linkedin-url/)
+- 💼 LinkedIn: [Manish Mathur](https://www.linkedin.com/in/manish-mathur-866235216/)
 - 🧑‍💻 GitHub: [@madiv9820](https://github.com/madiv9820)
 - 📧 Email: themathur901@gmail.com
 
