@@ -1,4 +1,4 @@
-# Hi, I'm Manish Mathur 👋
+# Hi, I'm Manish 👋
 
 ## 🚀 Data Engineer | Scalable ETL & Data Pipelines | AWS • Spark • Airflow • Kafka
 
